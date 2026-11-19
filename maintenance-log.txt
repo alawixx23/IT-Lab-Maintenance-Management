@@ -30,3 +30,10 @@ Maintenance Date: November 19, 2026
 Status: Working
 Remarks: All computer components, including the monitor, keyboard, mouse, and CPU, are functioning properly.
 ----------------------------------------
+
+Power Supply and Electrical Safety Inspection
+Description: Inspect power cables, electrical outlets, extension cords, and UPS devices to ensure safe and stable power supply to all computer units.
+Date: November 19, 2026
+Status: Safe / Needs Repair / Under Inspection
+Remarks: Power cables and electrical connections were inspected. No visible damage or electrical issues were found.
+----------------------------------------

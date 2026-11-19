@@ -7,7 +7,7 @@ Project Purpose
 2. To provide an efficient way of recording technical problems, tracking repair activities, and monitoring the maintenance history of computers and other laboratory equipment.
 
 3. To improve the management of computer laboratory resources by helping IT personnel identify issues, schedule maintenance, and maintain equipment in good working condition.
-__________________________________________________________________________________________________________________________________   
+____________________________________________________________________  
 Planned Features
 
 1. Maintenance Log Management – Allows users to add, view, update, and delete maintenance records, including repair details, dates, and reported issues.
