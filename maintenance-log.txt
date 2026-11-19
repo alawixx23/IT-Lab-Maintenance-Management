@@ -1,0 +1,32 @@
+IT-LAB-MAINTENANCE-MANAGEMENT
+MAINTENANCE LOG
+
+1. Computer Hardware Inspection
+   Description: Check computer components such as the monitor, keyboard, mouse, CPU, and cables.
+   Date: November 19, 2026
+   Status: Working / Needs Repair / Under Maintenance
+
+2. Software and Operating System Update
+   Description: Update the operating system, drivers, antivirus, and installed applications.
+   Date: November 19, 2026
+   Status: Completed / Pending / Failed
+
+3. Computer Cleaning and Dust Removal
+   Description: Clean computer units, keyboards, monitors, and other equipment to prevent dust buildup and overheating.
+   Date: November 19, 2026
+   Status: Completed / Pending / Needs Cleaning
+
+4. Network and Internet Connection Check
+   Description: Inspect LAN cables, network connections, routers, and internet connectivity.
+   Date: November 19, 2026
+   Status: Functional / Not Functional / Under Repair
+
+----------------------------------------
+ADDITIONAL RECORD FIELDS
+
+Computer ID: 20261119
+Performed By: ALAWI
+Maintenance Date: November 19, 2026
+Status: Working
+Remarks: All computer components, including the monitor, keyboard, mouse, and CPU, are functioning properly.
+----------------------------------------
